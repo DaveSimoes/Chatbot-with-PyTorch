@@ -1,4 +1,13 @@
-# Chatbot with PyTorch
+
+<div align="center">
+
+![new-cat-logo](https://github.com/DaveSimoes/Chatbot-with-PyTorch/assets/109705197/1f94bc2f-9b50-4cf7-8408-42aeaf4d3a9a)
+
+
+</div>
+
+
+<h1 align="center">Chatbot with PyTorch </h1> 
 
 A simple chatbot project implemented using PyTorch, designed to provide a basic understanding of building chatbots with neural networks.
 
