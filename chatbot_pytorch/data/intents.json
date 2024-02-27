@@ -1,0 +1,28 @@
+{
+  "intents": [
+    {
+      "tag": "greeting",
+      "patterns": ["Hello", "Hi", "How are you?", "What's up"],
+      "responses": ["Hello!", "Hi there!", "I'm doing well, thank you!"]
+    },
+    {
+      "tag": "goodbye",
+      "patterns": ["Bye", "Goodbye", "See you later"],
+      "responses": ["Goodbye!", "See you later!", "Have a great day!"]
+    },
+    {
+      "tag": "unknown",
+      "patterns": [
+        "Sorry, I don't understand.",
+        "Can you repeat that?",
+        "I didn't get that.",
+        "Please clarify."
+      ],
+      "responses": [
+        "I apologize, but I didn't understand that.",
+        "Could you please rephrase?",
+        "I'm sorry, I couldn't comprehend your message."
+      ]
+    }
+  ]
+}
